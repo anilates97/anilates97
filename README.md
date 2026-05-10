@@ -2,7 +2,7 @@
 
 # Hi, I'm Anıl Ateş 👋
 
-### Junior .NET Developer | ASP.NET Core MVC | React | Vue.js | SQL Server
+### Junior .NET Developer | ASP.NET Core MVC | Full Stack Development
 
 I build backend-focused full stack web applications using ASP.NET Core MVC, C#, SQL Server, REST APIs and modern frontend technologies.
 
