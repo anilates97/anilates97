@@ -1,28 +1,113 @@
-<h1 align="center">Hi 👋, I'm Anıl Ateş</h1>
-<h3 align="center">Welcome to my page!</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilates97&label=Profile%20views&color=0e75b6&style=flat" alt="anilates97" /> </p>
+# Hi, I'm Anıl Ateş 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilates97" alt="anilates97" /></a> </p>
+### Junior .NET Developer | ASP.NET Core MVC | React | Vue.js | SQL Server
 
-- 🔭 I’m currently working on [MyWebsite](https://github.com/anilates97/React-MyWebsite)
+I build backend-focused full stack web applications using ASP.NET Core MVC, C#, SQL Server, REST APIs and modern frontend technologies.
 
-- 🌱 I’m currently learning **TypeScript, React Native**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anilates97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anilates97)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://anilates.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-anilates97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anilates97)
 
-- 👯 I did collaborate on [ADOBilet](https://github.com/anilates97/ADOBilet-React/tree/master)
+</div>
 
-- 👨‍💻 All of my projects are available at [soon..](soon..)
+---
 
-- 📫 How to reach me **anilates.97@gmail.com**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anilates97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilates97" height="30" width="40" /></a>
-</p>
+I am a Junior .NET Developer focused on building practical web applications with clean backend logic, database-driven features and modern user interfaces.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+My strongest experience is with **ASP.NET Core MVC**, **C#**, **SQL Server**, **Entity Framework Core**, **REST API development** and **React**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilates97&show_icons=true&locale=en&layout=compact" alt="anilates97" /></p>
+I enjoy working on real-world systems such as financial dashboards, CMS platforms, reservation systems and portfolio applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilates97&show_icons=true&locale=en" alt="anilates97" /></p>
+I also actively use modern **AI-assisted development workflows** to improve productivity, accelerate learning and prototype applications more efficiently.
+
+---
+
+## Tech Stack
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+### Database
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AI Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-111827?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## Featured Projects
+
+### FinanceCase
+ASP.NET Core MVC financial management system with Web API, SQL Server, Hangfire, Excel import and financial calculation features.
+
+**Tech:** ASP.NET Core MVC, C#, SQL Server, Entity Framework Core, Hangfire, NPOI, REST API
+
+[View Repository](https://github.com/anilates97/FinanceCase)
+
+---
+
+### Logistics CMS
+ASP.NET Core MVC logistics content management system using MongoDB, authentication and layered architecture.
+
+**Tech:** ASP.NET Core MVC, C#, MongoDB, Layered Architecture
+
+[View Repository](https://github.com/anilates97/DotnetMVCCore-LogisticsCms)
+
+---
+
+### React Emlak Full Stack
+Full stack real estate platform with authentication, map integration and reservation features.
+
+**Tech:** React, TypeScript, Auth0, Leaflet, Full Stack Development
+
+[View Repository](https://github.com/anilates97/React-EmlakFullStack)
+
+---
+
+## Currently Improving
+
+- Advanced ASP.NET Core MVC
+- REST API design
+- Entity Framework Core
+- Clean Architecture principles
+- Vue.js 3 and modern frontend development
+- AI-assisted development workflows
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Anıl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilates97&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilates97&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/anilates97](https://linkedin.com/in/anilates97)
+- Portfolio: [anilates.vercel.app](https://anilates.vercel.app)
+- GitHub: [github.com/anilates97](https://github.com/anilates97)
+
+---
