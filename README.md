@@ -4,7 +4,7 @@
 
 ### Junior .NET Developer | ASP.NET Core MVC | Full Stack Development
 
-I build backend-focused full stack web applications using ASP.NET Core MVC, C#, SQL Server, REST APIs and modern frontend technologies.
+I build backend-focused full stack web applications using ASP.NET Core MVC, C#, SQL Server, REST APIs and modern JavaScript frameworks.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anilates97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anilates97)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://anilates.vercel.app)
@@ -55,7 +55,7 @@ I also actively use modern **AI-assisted development workflows** to improve prod
 ## Featured Projects
 
 ### FinanceCase
-ASP.NET Core MVC financial management system with Web API, SQL Server, Hangfire, Excel import and financial calculation features.
+ASP.NET Core MVC financial management system with Excel import, financial calculations, Hangfire background jobs and third-party API integrations.
 
 **Tech:** ASP.NET Core MVC, C#, SQL Server, Entity Framework Core, Hangfire, NPOI, REST API
 
