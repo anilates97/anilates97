@@ -92,18 +92,6 @@ Full stack real estate platform with authentication, map integration and reserva
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Anıl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilates97&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilates97&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
----
-
 ## Contact
 
 - LinkedIn: [linkedin.com/in/anilates97](https://linkedin.com/in/anilates97)
