@@ -22,7 +22,6 @@ My strongest experience is with **ASP.NET Core MVC**, **C#**, **SQL Server**, **
 
 I enjoy working on real-world systems such as financial dashboards, CMS platforms, ticket reservation flows, real estate platforms, and portfolio applications.
 
-I also use modern **AI-assisted development workflows** to improve productivity, accelerate learning, refactor older projects, and build more polished user interfaces.
 
 ---
 
@@ -57,7 +56,6 @@ I also use modern **AI-assisted development workflows** to improve productivity,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AI Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
