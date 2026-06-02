@@ -7,7 +7,7 @@
 I build backend-focused full stack web applications using ASP.NET Core MVC, C#, SQL Server, REST APIs and modern JavaScript frameworks.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anilates97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anilates97)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://anilates.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://atesdev.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anilates97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anilates97)
 
 </div>
@@ -20,8 +20,7 @@ I am a Junior .NET Developer focused on building practical web applications with
 
 My strongest experience is with **ASP.NET Core MVC**, **C#**, **SQL Server**, **Entity Framework Core**, **REST API development**, and **React**.
 
-I enjoy working on real-world systems such as financial dashboards, CMS platforms, ticket reservation flows, real estate platforms, and portfolio applications.
-
+I enjoy working on real-world systems such as financial dashboards, CMS platforms, real estate platforms, and full-stack web applications.
 
 ---
 
@@ -46,7 +45,6 @@ I enjoy working on real-world systems such as financial dashboards, CMS platform
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -81,16 +79,6 @@ Logistics-focused CMS and admin panel built with ASP.NET Core MVC and MongoDB. I
 
 ---
 
-### ADO Bilet
-
-Event ticket platform built with React and Supabase. Includes event browsing, user authentication, protected ticket routes, seat selection, ticket purchase flow, and admin management screens.
-
-**Tech:** React, JavaScript, Supabase, Redux Toolkit, React Router, Tailwind CSS
-
-[View Repository](https://github.com/anilates97/React-ADOBilet)
-
----
-
 ### Nivo Emlak
 
 Full-stack real estate platform with property listings, search, favourites, visit planning, property detail pages, map support, and a custom JWT-based backend API.
@@ -98,6 +86,16 @@ Full-stack real estate platform with property listings, search, favourites, visi
 **Tech:** React, TypeScript, Node.js, Express, Prisma, MongoDB, React Query, Leaflet
 
 [View Repository](https://github.com/anilates97/React-EmlakFullStack)
+
+---
+
+### ADO Bilet
+
+Event ticket platform built with React and Supabase. Includes event browsing, user authentication, protected ticket routes, seat selection, ticket purchase flow, and admin management screens.
+
+**Tech:** React, JavaScript, Supabase, Redux Toolkit, React Router, Tailwind CSS
+
+[View Repository](https://github.com/anilates97/React-ADOBilet)
 
 ---
 
@@ -109,12 +107,11 @@ Full-stack real estate platform with property listings, search, favourites, visi
 - Clean Architecture principles
 - Full stack application structure
 - Vue.js 3 and modern frontend development
-- AI-assisted development workflows
 
 ---
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/anilates97](https://linkedin.com/in/anilates97)
-- Portfolio: [anilates.vercel.app](https://anilates.vercel.app)
+- Portfolio: [atesdev.com](https://atesdev.com)
 - GitHub: [github.com/anilates97](https://github.com/anilates97)
